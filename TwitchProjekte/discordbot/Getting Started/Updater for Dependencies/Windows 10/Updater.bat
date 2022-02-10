@@ -1,0 +1,1 @@
+pip install py-cord[voice] youtube_dl PyGithub PyNaCL twitch-python pytube prsaw praw discord-py-slash-command --upgrade
