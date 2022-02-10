@@ -1,1 +1,0 @@
-pip3 install py-cord[voice] pyGithub PyNaCL twitch-python Youtube_dl praw discord-py-slash-command
